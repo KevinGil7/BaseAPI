@@ -8,6 +8,7 @@ API REST en ASP.NET Core con autenticacion JWT, Identity y MySQL.
 
 - ✅ .NET SDK 10
 - ✅ Docker Desktop (para levantar MySQL)
+- ✅ Extension ".NET Install Tool" (VS Code)
 - ✅ Herramienta de Entity Framework CLI (`dotnet-ef`)
 
 Instalar `dotnet-ef`:
